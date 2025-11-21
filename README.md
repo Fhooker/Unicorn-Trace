@@ -2,7 +2,7 @@
 
 [简体中文](./README_zh.md)
 
-<video controls src="imgs/1.mp4" title="Title"></video>
+![alt text](imgs/1.gif)
 
 This project provides a lightweight Unicorn engine-based ARM64 dynamic tracing emulation tool that can run as an IDA Pro plugin or standalone. The tool integrates tightly with IDA to ensure execution consistency and avoid errors. It provides reliable simulation reproduction capabilities and generates beautiful Tenet logs for debugging and analysis. Key features include dynamic code simulation, memory dumping, register state tracking, and instruction-level logging.
 
